@@ -1,0 +1,158 @@
+         Welcome to hotel reservation application
+-----------------------------------------------------------
+1.Find and reserve a room
+2.See my reservations
+3.Create an account
+4.Admin
+5.Exit
+-----------------------------------------------------------
+4
+-----------------------------------------------------------
+1.See All customers
+2.See All Rooms
+3.See All Reservations
+4.Add A Room
+5.Back to main menu
+-----------------------------------------------------------
+4
+Enter a room number
+1
+Enter price per night
+1999
+Enter room type
+1.for single bed
+2.for double bed
+1
+Room added successfully
+-----------------------------------------------------------
+1.See All customers
+2.See All Rooms
+3.See All Reservations
+4.Add A Room
+5.Back to main menu
+-----------------------------------------------------------
+2
+Room number : 1
+Room Type : SINGLE
+Room price : 1999.0
+-----------------------------------------------------------
+1.See All customers
+2.See All Rooms
+3.See All Reservations
+4.Add A Room
+5.Back to main menu
+-----------------------------------------------------------
+5
+         Welcome to hotel reservation application
+-----------------------------------------------------------
+1.Find and reserve a room
+2.See my reservations
+3.Create an account
+4.Admin
+5.Exit
+-----------------------------------------------------------
+3
+Enter email
+nanne32@gmail.com
+Enter first Name
+nanne
+Enter last Name
+nanne
+Account is created
+         Welcome to hotel reservation application
+-----------------------------------------------------------
+1.Find and reserve a room
+2.See my reservations
+3.Create an account
+4.Admin
+5.Exit
+-----------------------------------------------------------
+1
+Enter check in date (mm/dd/yyyy)
+4/10/2022
+Enter check out date (mm/dd/yyyy)
+4/15/2022
+--- available rooms ----
+Room number : 1
+Room Type : SINGLE
+Room price : 1999.0
+would you like to book a room ?? Y or N
+y
+Do you have an account with us?? Y or N
+y
+Enter your email
+nanne32@gmail.com
+which room do you like to reserve
+1
+customer details :
+First Name : nanne
+Last Name : nanne
+Email : nanne32@gmail.com
+room details :
+Room number : 1
+Room Type : SINGLE
+Room price : 1999.0
+check in date:
+Sun Apr 10 00:00:00 IST 2022
+check out date:
+Fri Apr 15 00:00:00 IST 2022
+         Welcome to hotel reservation application
+-----------------------------------------------------------
+1.Find and reserve a room
+2.See my reservations
+3.Create an account
+4.Admin
+5.Exit
+-----------------------------------------------------------
+2
+please enter email address to view your reservation
+nanne32@gmail.com
+customer details :
+First Name : nanne
+Last Name : nanne
+Email : nanne32@gmail.com
+room details :
+Room number : 1
+Room Type : SINGLE
+Room price : 1999.0
+check in date:
+Sun Apr 10 00:00:00 IST 2022
+check out date:
+Fri Apr 15 00:00:00 IST 2022
+         Welcome to hotel reservation application
+-----------------------------------------------------------
+1.Find and reserve a room
+2.See my reservations
+3.Create an account
+4.Admin
+5.Exit
+-----------------------------------------------------------
+4
+-----------------------------------------------------------
+1.See All customers
+2.See All Rooms
+3.See All Reservations
+4.Add A Room
+5.Back to main menu
+-----------------------------------------------------------
+3
+customer details :
+First Name : nanne
+Last Name : nanne
+Email : nanne32@gmail.com
+room details :
+Room number : 1
+Room Type : SINGLE
+Room price : 1999.0
+check in date:
+Sun Apr 10 00:00:00 IST 2022
+check out date:
+Fri Apr 15 00:00:00 IST 2022
+-----------------------------------------------------------
+1.See All customers
+2.See All Rooms
+3.See All Reservations
+4.Add A Room
+5.Back to main menu
+-----------------------------------------------------------
+
